@@ -1,2 +1,7 @@
-# bangalore-restaurant-market-analysis
-Data-driven analysis of Bangalore's restaurant market using the Zomato dataset to identify demand, competition, pricing trends, and potential locations for new restaurants.
+## Dataset
+
+The dataset used in this project can be downloaded from Kaggle:
+
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
+Download the dataset and place it in the project folder before running the notebook.
